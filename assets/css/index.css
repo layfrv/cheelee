@@ -206,7 +206,7 @@ header__col-right__lang-btn_icon {
 
 .first-page__gplay {
   width: max-content;
-  padding-top: 60%;
+  padding-top: 150px;
 }
 
 .first-page__gplay p {
@@ -467,10 +467,6 @@ footer {
 
   header {
     padding: 20px 40px;
-  }
-
-  .first-page__gplay {
-    padding-top: 35%;
   }
 
   .page__wrapper {
