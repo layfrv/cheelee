@@ -1,0 +1,15 @@
+{
+  "name": "verstka",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {},
+  "author": "Layla F.",
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}
